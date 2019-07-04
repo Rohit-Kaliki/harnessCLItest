@@ -1,0 +1,3 @@
+#!/bin/bash
+# Runs Harness cli
+java -jar ##PREFIX##/WorkingRepo.jar "$@"
